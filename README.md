@@ -40,7 +40,7 @@ You will need 2 views for the Base Features. You should put some thought into th
 - Allow a user to see all of the Giphy images they have Favorited. The actual images need to appear on the DOM.
 - Allow a user to set a category for a favorite image.
     - Each favorite image can only have 1 category at a time.
-    - The category needs to be one of the categories in the database.
+    - The category needs to be one of the categories in the database
 
 
 ## Existing Routes
